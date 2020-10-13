@@ -1,4 +1,4 @@
-### Hi I'm Victor Nwike, and I'm a Software developer 👋
+### Hi I'm Victor Nwike, and I'm a Software Engineer
 
 <!--
 **Bondesvick/Bondesvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
